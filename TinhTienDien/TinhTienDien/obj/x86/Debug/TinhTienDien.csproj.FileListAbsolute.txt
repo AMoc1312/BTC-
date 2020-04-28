@@ -1,0 +1,4 @@
+E:\visual studio\btap\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.exe
+E:\visual studio\btap\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.pdb
+E:\visual studio\btap\TinhTienDien\TinhTienDien\obj\x86\Debug\TinhTienDien.exe
+E:\visual studio\btap\TinhTienDien\TinhTienDien\obj\x86\Debug\TinhTienDien.pdb

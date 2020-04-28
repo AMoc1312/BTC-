@@ -1,0 +1,5 @@
+E:\visual studio\btap\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\visual studio\btap\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\visual studio\btap\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\visual studio\btap\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\visual studio\btap\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\vidu1.csprojResolveAssemblyReference.cache

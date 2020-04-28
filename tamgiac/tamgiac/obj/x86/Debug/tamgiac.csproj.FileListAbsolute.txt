@@ -1,0 +1,4 @@
+E:\visual studio\btap\tamgiac\tamgiac\bin\Debug\tamgiac.exe
+E:\visual studio\btap\tamgiac\tamgiac\bin\Debug\tamgiac.pdb
+E:\visual studio\btap\tamgiac\tamgiac\obj\x86\Debug\tamgiac.exe
+E:\visual studio\btap\tamgiac\tamgiac\obj\x86\Debug\tamgiac.pdb

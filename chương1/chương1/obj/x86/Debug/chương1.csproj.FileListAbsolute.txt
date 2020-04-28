@@ -1,0 +1,4 @@
+E:\visual studio\btap\chương1\chương1\bin\Debug\chương1.exe
+E:\visual studio\btap\chương1\chương1\bin\Debug\chương1.pdb
+E:\visual studio\btap\chương1\chương1\obj\x86\Debug\chương1.exe
+E:\visual studio\btap\chương1\chương1\obj\x86\Debug\chương1.pdb

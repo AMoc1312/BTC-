@@ -1,0 +1,4 @@
+E:\visual studio\btap\demo\demo\bin\Debug\demo.exe
+E:\visual studio\btap\demo\demo\bin\Debug\demo.pdb
+E:\visual studio\btap\demo\demo\obj\x86\Debug\demo.exe
+E:\visual studio\btap\demo\demo\obj\x86\Debug\demo.pdb

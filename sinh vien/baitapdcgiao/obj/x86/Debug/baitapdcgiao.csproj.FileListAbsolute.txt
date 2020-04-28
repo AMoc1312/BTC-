@@ -1,0 +1,5 @@
+E:\visual studio\btap\sinh vien\baitapdcgiao\bin\Debug\baitapdcgiao.exe
+E:\visual studio\btap\sinh vien\baitapdcgiao\bin\Debug\baitapdcgiao.pdb
+E:\visual studio\btap\sinh vien\baitapdcgiao\obj\x86\Debug\baitapdcgiao.exe
+E:\visual studio\btap\sinh vien\baitapdcgiao\obj\x86\Debug\baitapdcgiao.pdb
+E:\visual studio\btap\sinh vien\baitapdcgiao\obj\x86\Debug\baitapdcgiao.csprojResolveAssemblyReference.cache

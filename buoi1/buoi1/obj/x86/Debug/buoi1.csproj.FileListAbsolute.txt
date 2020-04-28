@@ -1,0 +1,4 @@
+E:\visual studio\btap\buoi1\buoi1\bin\Debug\buoi1.exe
+E:\visual studio\btap\buoi1\buoi1\bin\Debug\buoi1.pdb
+E:\visual studio\btap\buoi1\buoi1\obj\x86\Debug\buoi1.exe
+E:\visual studio\btap\buoi1\buoi1\obj\x86\Debug\buoi1.pdb

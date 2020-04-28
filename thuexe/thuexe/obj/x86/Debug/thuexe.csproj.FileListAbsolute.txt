@@ -1,0 +1,4 @@
+E:\visual studio\btap\thuexe\thuexe\bin\Debug\thuexe.exe
+E:\visual studio\btap\thuexe\thuexe\bin\Debug\thuexe.pdb
+E:\visual studio\btap\thuexe\thuexe\obj\x86\Debug\thuexe.exe
+E:\visual studio\btap\thuexe\thuexe\obj\x86\Debug\thuexe.pdb

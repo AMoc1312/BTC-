@@ -1,0 +1,5 @@
+E:\visual studio\btap\dddd\dddd\bin\Debug\dddd.exe
+E:\visual studio\btap\dddd\dddd\bin\Debug\dddd.pdb
+E:\visual studio\btap\dddd\dddd\obj\x86\Debug\dddd.exe
+E:\visual studio\btap\dddd\dddd\obj\x86\Debug\dddd.pdb
+E:\visual studio\btap\dddd\dddd\obj\x86\Debug\dddd.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+E:\visual studio\btap\SinhVien\SinhVien\bin\Debug\SinhVien.exe
+E:\visual studio\btap\SinhVien\SinhVien\bin\Debug\SinhVien.pdb
+E:\visual studio\btap\SinhVien\SinhVien\obj\x86\Debug\SinhVien.exe
+E:\visual studio\btap\SinhVien\SinhVien\obj\x86\Debug\SinhVien.pdb

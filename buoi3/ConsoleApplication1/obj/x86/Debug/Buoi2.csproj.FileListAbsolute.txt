@@ -1,0 +1,4 @@
+E:\visual studio\btap\buoi3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\visual studio\btap\buoi3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\visual studio\btap\buoi3\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\visual studio\btap\buoi3\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

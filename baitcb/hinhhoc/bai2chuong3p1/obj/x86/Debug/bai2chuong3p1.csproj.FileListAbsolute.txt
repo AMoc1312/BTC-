@@ -1,0 +1,4 @@
+E:\visual studio\btap\baitcb\hinhhoc\bai2chuong3p1\bin\Debug\bai2chuong3p1.exe
+E:\visual studio\btap\baitcb\hinhhoc\bai2chuong3p1\bin\Debug\bai2chuong3p1.pdb
+E:\visual studio\btap\baitcb\hinhhoc\bai2chuong3p1\obj\x86\Debug\bai2chuong3p1.exe
+E:\visual studio\btap\baitcb\hinhhoc\bai2chuong3p1\obj\x86\Debug\bai2chuong3p1.pdb
